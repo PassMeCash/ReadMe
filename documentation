@@ -1,0 +1,99 @@
+PassMeCash Documentation.
+Table of content:
+1. Overview
+a) Description
+b) User Stories
+2. Team
+3. Goals
+4. Phases
+5. Milestones
+6. Content
+a) Sites Map
+b) Template
+c) Type of Content
+d) Taxonomies
+7. Design
+8. Functionality
+9. Accessibility
+10. Browser Support
+11. Hosting
+12. Maintain & Support
+13. Assumptions
+14. Deadlines
+15. Budget
+1. OVERVIEW:
+PassMeCash Enables users (Request, Receive, Send) Funds internally and externally either by
+cash or crypto.
+PassMeCash is a startup founded by Mr.Onose Ogaga (CodeUp Technology Limited) Author,
+Social Entrepreneur, Startup Catalyst, Tech Educationist, Blockchain Community Advocate, GitLab
+Hero, Founder WittyHub, Founder BloodFuse.
+PassMeCash was founded to embrace the cashless policy of NIgeria, and aid easy transactions
+between users. It’s a platform that can swap your crypto to cash, used as a payment gateway
+between customers and users. PassMeCash was created to solve the Nigerian societal financial
+challenge where people find it difficult to access their cash at the bank, ATM or other third party
+services.
+PassMeCash Vision is to create a robust platform that can allow users access their funds
+anywhere, anytime, either their funds are in crypto or cash.
+a) Description:
+> Meeting the needs of our End Users by providing them an easy to use system that
+can be used anywhere and anytime.
+> Payment between customers and users via PassMeCash.
+> Users are able to request funds and receive them via an Agent or order for a spray bill.
+b) User Stories:
+USERS
+> Swap Cash (pays in cash or crypto) ----> Receives FundsIN NAIRA
+from a PMC Agent [User
+pays ahead or on spot to POS Agent]
+> Uses PassMeCash to make payment to another PassMeCash User
+> Withdraw or Transfer Fund to External Self Account
+> Order spay bills
+PMC AGENT / POS
+> Gives out cash to Users
+> Withdraw or Transfer Fund to External Self Account
+> Uses PassMeCash to make payment to another PassMeCash User
+2. TEAMS:
+i. ONOSE, Ogaga - Founder, CEO - onoseogaga@gmail.com
+ii. EBRUSIKE, Favour - Project Technical Lead - freecodingboy@gmail.com [ACTIVE]
+iii. GABRIEL, Precious - Asst Project Technical Lead - gabrielprecioux@gmail.com [ACTIVE]
+iv. NAME, Name - position - email [STATUS]
+3. GOAL:
+Getting cash to users via PMC agents / POS operators, at a very minimal rate, speedy and easy
+reaching out to the least end users (keke, shops, market sellers, retailers, companies, online
+vendors, malls, fuel stations, superstores, etc…)
+To see that the website if fast and accessible to all users
+Having 10,000 users by the end of the year
+Having a Decentralized System and Micro Services
+4. PHASES:
+a) Landing page
+b) Registration, Login, Reset Password [Agent & User]
+c) Dashboard [Agent, Business & User]
+d) Ads
+e) Admin
+f)
+5. Milestones:
+i. Landing Page
+ii. User Registration Page
+iii. User Login Page
+iv. User Reset Password
+v. Agent Registration Page
+vi. Agent Login Page
+vii. Agent Reset Password
+viii. OTP Verification Page
+ix. Ads Page
+x. User Dashboard Page
+xi. Agent Dashboard Page
+xii. User Page
+xiii. Agent Wallet Page
+xiv. User Virtual Card
+xv. Agent Card
+xvi. User Transaction Page
+xvii. Agent Transaction Page
+xviii. User Request Page
+xix. Agent Accept Page
+xx. User Pay Bill Page
+xxi. Agent Page Bill Page
+xxii. User Profile Page
+xxiii. Agent Profile Page
+xxiv. Admin Dashboard
+6. Project Dev:
+7. Budget:
